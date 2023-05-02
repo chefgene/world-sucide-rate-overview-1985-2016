@@ -1,4 +1,4 @@
-# WORLD SUTCIDE RATE
+# WORLD SUICIDE RATE
 
 ## world suicide-rate overview 1985-2016
 
@@ -45,7 +45,7 @@ But men, on the other hand, would usually go for lethal ways to end life. ‘The
 
 ## 3. What is the country with the highest suicide rate?
 
-Generally, Ukraine has the highest number of suicides, but Russia took the lead between 1990–1994, and between 2017–2020 USA topped the chart despite being among the top three in terms of GDP per capita.
+Generally, Rusiia has the highest number of suicides, but Russia Ukaine the lead between 1990–1994, and between 2017–2020 USA topped the chart, despite being among the top three in terms of GDP per capita.
 
 ![](https://github.com/chefgene/world-sucide-rate-overview-1985-2016/blob/main/wiki_img/trend.PNG)
 
