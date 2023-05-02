@@ -65,6 +65,8 @@ it's worthy of note to see that there is a correlation between GDPs per capita a
 
 ![](https://github.com/chefgene/world-sucide-rate-overview-1985-2016/blob/main/wiki_img/su%20relationship.PNG)
 
+you can interact with the dashboard by clicking on this link https://app.powerbi.com/groups/me/reports/5bc986d4-a3e1-4ebd-adb4-f48bc572111e/ReportSectionf20f196c4968c683b23a?ctid=24ef9cc0-ab75-4d37-ae28-f436f3fbcd3e
+
 
 ## Recommendation
 1. the research has shown that. the people or generation who are prone to committing suicide are older folks, in order to mitigate this we need to stay close to the older folks and make sure they are not lonely. loneliness can be a death sentence to some older people.
