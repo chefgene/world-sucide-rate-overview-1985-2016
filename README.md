@@ -40,6 +40,37 @@ But men, on the other hand, would usually go for lethal ways to end life. ‘The
 
 Generally, Ukraine has the highest number of suicides, but Russia took the lead between 1990–1994, and between 2017–2020 USA topped the chart despite being among the top three in terms of GDP per capita.
 
+## 4. What are the yearly suicide trends among these countries?
+In 2002 we have the highest suicide number compared to 2018 when we had the lowest but at the end of 2016 there was a spike in 2017 and there was a great drop in 2020. the countries that record suicide incidents were USA, Slovenia, Spain, and Singapore
+
+## What is the yearly trend per/100k
+Since 1985 we have had a steady increase in the number of suicide from over 6000 per 100k to 14600 in 1995 before a decline but it was sharp in 2015 and jumped down to 2000 per 100k but there was a little leap which still went down to 200 per 100k in 2020,
+
+## what are the relationship between population, GDP per capita, and suicide rate?
+
+it's worthy of note to see that there is a correlation between GDPs per capita and the number of suicides rate of the top 10 countries, we saw that the countries with the highest rate of suicide are countries that were doing well economically mostly part of the top 10 with the highest GDPs per capita and also were countries with the top population.
+
+\## Recommendation
+the research has shown that. the people or generation who are prone to committing suicide are older folks, in order to mitigate this we need to stay close to the older folks and make sure they are not lonely. loneliness can be a death sentence to some older people.
+Many people try to get help before attempting suicide. In fact, studies indicate that more than 50 percent of suicide victims had sought medical help in the six months prior to their deaths. countries should have a system whereby those who lost their loved ones, or jobs, or have broken relationships or need such help can have access to mental health experts at no cost and accessible because this is how suicidal thoughts started if they are left unattended.
+thirdly since men from the time past till now have the highest number of those who commit suicide i believe attention should be given to men regarding this. the reason can be seen in the research of prof hey also noted that, in men, the networks involved motor regions that are more associated with action, while the networks in women were dominated by brain regions that determine the emotional state of a person.
+Prof Gopichshina Deshpande of Auburn University, USA conducted research, and part of the conclusions prof said: “This may support the fact that suicidal desire generally leads to decisive fatal action in males while in females, it manifests as depression, ideation, and generally non-fatal actions.”
+
+4. lastly, there should be awareness that it's not a show of weakness for men to seek help, not being able to open up to people has led many men to commit suicide, creating such awareness and making a consultation for those who are seeking help for free and accessible will go a long way and in this regard, the government must be able to come in and support such initiatives.
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
