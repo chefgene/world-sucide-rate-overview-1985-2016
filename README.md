@@ -1,3 +1,4 @@
+![](https://github.com/chefgene/crime-rate-in-nigeria/blob/main/OIP%20(8).jfif)
 # WORLD SUICIDE RATE
 
 ## world suicide-rate overview 1985-2016
